@@ -32,8 +32,6 @@ A functional 3D Rubik's Cube simulator built using **C++**, **OpenGL**, and **SF
 * **Left Click + Drag**: Rotate camera.
 * **Scroll**: Zoom in/out.
 
-## 📸 Screenshots
-*(Hint: Add a screenshot or GIF here to make your repo look professional!)*
 
 ## ⚙️ Requirements & Building
 
@@ -42,6 +40,4 @@ To run this project, you need to have the following libraries configured in your
 2. **ImGui-SFML**
 3. **OpenGL / GLU**
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/rubiks-cube-3d.git](https://github.com/YOUR_USERNAME/rubiks-cube-3d.git)
+
